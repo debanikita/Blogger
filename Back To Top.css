@@ -1,0 +1,4 @@
+/* Back To Top */
+.backtotop{background:#fff;background-size:100%;color:#222;font-size:1.4em;width:42px;height:42px;line-height:38px;outline:0;z-index:90;bottom:45px;right:45px;position:fixed;border-radius:99em;padding:0;text-align:center;cursor:pointer;opacity:1;box-shadow:0 1px 3px rgba(0,0,0,0.1),0 1px 3px rgba(0,0,0,0.13);transition:all .25s}.backtotop svg{width:22px;height:22px;transform:rotate(90deg);vertical-align:middle;transition:all .25s}.backtotop:hover{box-shadow:0 4px 8px rgba(0,0,0,0.1),0 4px 8px rgba(0,0,0,0.13)}.Night .backtotop{background:#33475c}.Night .backtotop:hover{background:#3d556e}
+/* Shadow */
+#FeaturedPost1 .button-feature a,#footer .footer-nav li a,#FeaturedPost1,#blog-pager,.ias_trigger,.post-outer,.sidebar .widget,.breadcrumbs,.post-share-wrap,.disqusshows{box-shadow:0 3px 5px 0 rgba(9,32,76,.025)}
